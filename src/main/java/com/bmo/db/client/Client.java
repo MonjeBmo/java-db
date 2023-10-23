@@ -8,4 +8,5 @@ public class Client {
     public String phone;
     public String email;
 
+    public String DPI;
 }
